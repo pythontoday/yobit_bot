@@ -1,3 +1,5 @@
 *.pyc
 .idea
 venv
+main_patreon.py
+.gitignore
